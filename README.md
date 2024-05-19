@@ -37,7 +37,7 @@ stitcher = orthotile.Stitcher(
 stitcher.stitch(cleanup_tiles=True)
 ```
 
-### 3. Combined Workflow for Generating and Stitching Tiles:
+### 3. Combined Workflow for Generating and Stitching Tiles Together:
 
 ```python
 import orthotile
@@ -57,7 +57,7 @@ stitcher = orthotile.Stitcher(**otiles.get_metadata())
 stitcher.stitch(cleanup_tiles=True)
 ```
 
-## Module Installation
+## Orthotile Installation
 
 To install from the source, simply run:
 
