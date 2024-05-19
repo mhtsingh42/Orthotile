@@ -63,5 +63,3 @@ To install from the source, simply run:
 
 ```sh
 python -m pip install .
-```
-```
